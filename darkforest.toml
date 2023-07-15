@@ -3,3 +3,4 @@
 
 [initializers]
 START_PAUSED = true
+ADMIN_CAN_ADD_PLANETS = true
