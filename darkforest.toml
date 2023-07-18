@@ -10,3 +10,5 @@ WORLD_RADIUS_LOCKED = false
 ##################################
 # SNARK keys & Perlin parameters #
 ##################################
+DISABLE_ZK_CHECKS = false
+PLANETHASH_KEY = 115
