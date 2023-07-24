@@ -22,3 +22,5 @@ PERLIN_LENGTH_SCALE = 16384 # must be a power of two no greater than 16384
 # Space junk #
 ##############
 SPACE_JUNK_ENABLED = true
+# Total amount of space junk a player can take on. This can be overridden at runtime by updating this value for a specific player in storage.
+SPACE_JUNK_LIMIT = 2000
