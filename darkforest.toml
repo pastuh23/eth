@@ -25,3 +25,4 @@ SPACE_JUNK_ENABLED = true
 # Total amount of space junk a player can take on. This can be overridden at runtime by updating this value for a specific player in storage.
 SPACE_JUNK_LIMIT = 2000
 # The amount of junk that each level of planet gives the player when moving to it for the first time.
+PLANET_LEVEL_JUNK = [20, 25, 30, 35, 40, 45, 50, 55, 60, 65]
