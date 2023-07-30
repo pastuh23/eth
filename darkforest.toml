@@ -33,3 +33,5 @@ ABANDON_RANGE_CHANGE_PERCENT = 150
 
 ##############
 # Capture zones #
+##############
+CAPTURE_ZONES_ENABLED = true
