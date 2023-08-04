@@ -42,3 +42,5 @@ CAPTURE_ZONE_RADIUS = 1000
 # The amount of score each planet level gives for capturing
 CAPTURE_ZONE_PLANET_LEVEL_SCORE = [
   0,
+  0,
+  250_000,
