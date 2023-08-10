@@ -52,3 +52,5 @@ CAPTURE_ZONE_PLANET_LEVEL_SCORE = [
   50_000_000,
  100_000_000
 ]
+# After invading, the number of blocks you need to hold a planet for before capturing
+CAPTURE_ZONE_HOLD_BLOCKS_REQUIRED = 2048
