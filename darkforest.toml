@@ -56,6 +56,6 @@ CAPTURE_ZONE_PLANET_LEVEL_SCORE = [
 CAPTURE_ZONE_HOLD_BLOCKS_REQUIRED = 2048
 # Number of capture zones that spawn each time they generate
 CAPTURE_ZONES_PER_5000_WORLD_RADIUS = 3
-
+######################
 ######################
 # Game configuration #
