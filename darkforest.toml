@@ -40,3 +40,16 @@ CAPTURE_ZONE_CHANGE_BLOCK_INTERVAL = 255
 # How big the capture zones are
 CAPTURE_ZONE_RADIUS = 1000
 # The amount of score each planet level gives for capturing
+CAPTURE_ZONE_PLANET_LEVEL_SCORE = [
+  0,
+  0,
+  250_000,
+  500_000,
+  750_000,
+  1_000_000,
+  10_000_000,
+  20_000_000,
+  50_000_000,
+  100_000_000
+]
+# After invading, the number of blocks you need to hold a planet for before capturing
