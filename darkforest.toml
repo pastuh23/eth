@@ -28,3 +28,7 @@ SPACE_JUNK_LIMIT = 2000
 PLANET_LEVEL_JUNK = [20, 25, 30, 35, 40, 45, 50, 55, 60, 65]
 # The speed boost a movement receives when abandoning a planet.
 ABANDON_SPEED_CHANGE_PERCENT = 150
+# The range boost a movement receives when abandoning a planet.
+ABANDON_RANGE_CHANGE_PERCENT = 150
+
+##############
